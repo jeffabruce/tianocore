@@ -11,7 +11,7 @@ title: Welcome
 
 # Welcome to the open source community of UEFI
 
-This is the community site surrounding the open source components of
+jThis is the community site surrounding the open source components of
 Intel's implementation of [UEFI]({{wiki}}/UEFI). Our [EDK II] is a
 modern, feature-rich, cross-platform firmware development environment
 for the UEFI and PI specifications. We hope that you'll delve into our
